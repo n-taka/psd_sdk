@@ -431,3 +431,5 @@ iOSInjectionProject/
 # Scons
 *.o
 .sconsign.dblite
+
+build_cmake
